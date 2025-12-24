@@ -42,8 +42,8 @@ Updated Articles Stored
 ↓
 React Frontend (Original vs AI-Enhanced View)
 
-yaml
-Copy code
+<img width="1024" height="1536" alt="ChatGPT Image Dec 24, 2025, 09_53_42 AM" src="https://github.com/user-attachments/assets/8ccd0636-1cca-45c9-9f78-264ec0baca5a" />
+
 
 ---
 
