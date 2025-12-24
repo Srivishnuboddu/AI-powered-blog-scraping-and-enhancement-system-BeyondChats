@@ -1,0 +1,52 @@
+
+---
+
+# 🛑 MAIN `.gitignore` FILE (VERY IMPORTANT)  
+📍 **File:** `.gitignore` (root of project)
+
+👉 **Copy-paste this exactly**
+
+```gitignore
+# ===============================
+# Global
+# ===============================
+.env
+.env.*
+
+# ===============================
+# Node.js
+# ===============================
+node_modules/
+npm-debug.log*
+yarn-error.log*
+
+# ===============================
+# Laravel
+# ===============================
+/backend-laravel/vendor/
+/backend-laravel/.env
+/backend-laravel/storage/*.key
+/backend-laravel/storage/framework/
+!/backend-laravel/storage/framework/.gitignore
+/backend-laravel/storage/logs/
+/backend-laravel/bootstrap/cache/
+
+# ===============================
+# React
+# ===============================
+/frontend-react/node_modules/
+/frontend-react/build/
+/frontend-react/.env
+
+# ===============================
+# OS / Editor
+# ===============================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# ===============================
+# Logs
+# ===============================
+*.log
