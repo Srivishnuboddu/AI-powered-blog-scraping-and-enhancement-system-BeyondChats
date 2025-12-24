@@ -9,7 +9,10 @@ The system automatically:
 - Displays **Original vs AI-Enhanced articles** in a modern frontend UI
 
 The project is designed to be **fault-tolerant**, **scalable**, and **real-world ready**.
+<img width="2858" height="1631" alt="Screenshot 2025-12-24 090221" src="https://github.com/user-attachments/assets/6dbf22d7-2f2c-4cd5-9a02-f3a48127d903" />
+<img width="2874" height="1618" alt="Screenshot 2025-12-24 090233" src="https://github.com/user-attachments/assets/a8ac4dd0-620f-4a6f-9543-dd6b357b9f6c" />
 
+YOUTUBE VIDEO LINK OF PROJECT EXPLAINATION : https://youtu.be/XelVSCTq7oI
 ---
 
 ## 🧠 Project Overview
