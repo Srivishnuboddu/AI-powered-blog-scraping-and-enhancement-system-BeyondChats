@@ -112,6 +112,10 @@ This demonstrates **real-world production-grade engineering**.
 
 Each module has its **own README** with detailed steps.
 
+1. Start apache,mysql in Xampp server
+2. start backend in /backend with "php artisian serve"
+3. Start frontend in /frontend with "npm start"
+
 ---
 
 ## 📌 Assignment Status
